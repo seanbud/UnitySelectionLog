@@ -1,0 +1,37 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]ser[Ss]ettings/
+
+# Asset meta data should be ignored when they are created by unity but not when they are created by the user
+# /[Aa]ssets/**/*.meta
+
+# VS/MD/Consulo solution and project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# sysinfo
+sysinfo.txt
+
+# Crashlytics generated file
+crashlytics-build.properties

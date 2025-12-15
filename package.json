@@ -1,0 +1,11 @@
+{
+  "name": "com.seanbud.selectionlog",
+  "version": "1.0.0",
+  "displayName": "Selection Log",
+  "description": "A simple editor tool to track your selection history, allowing for easy navigation, pinning favorites, and quick drag-and-drop operations.",
+  "unity": "2021.3",
+  "author": {
+    "name": "SeanBud",
+    "url": "https://github.com/SeanBud/UnitySelectionLog"
+  }
+}
