@@ -1,6 +1,6 @@
 # Selection Log
 
-A simple Unity Editor tool to track, pin, and drag-and-drop your recently selected objects.
+A simple Unity Editor tool to track, pin, and drag-and-drop your recently selected objects. Useful in all workflows, and in combination with heirarchy, project, and inspectors.
 
 ## Features
 
@@ -10,11 +10,9 @@ A simple Unity Editor tool to track, pin, and drag-and-drop your recently select
 - **Git Integration**: Quickly `checkout` files (requires `git` on PATH).
 
 
-https://github.com/user-attachments/assets/4e12789f-2e27-4bf5-bbe6-4707c111756f
+https://github.com/user-attachments/assets/8fcf714c-89b6-4c28-98b8-4174504b1a9c
 
-
-https://github.com/user-attachments/assets/bcddac0f-f262-4612-b5f1-ca57cb7b01f3
-
+https://github.com/user-attachments/assets/0ed8dc09-7049-4121-ab6e-af2a792d2bd4
 
 ## Installation
 
