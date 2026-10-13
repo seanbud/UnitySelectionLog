@@ -59,7 +59,7 @@ namespace SeanBud
                     m_selectedObject = new SelectedObject
                     {
                         m_object = Selection.activeObject,
-                        m_inScene = !AssetDatabase.Contains(Selection.activeInstanceID)
+                        m_inScene = !AssetDatabase.Contains(Selection.activeObject)
                     };
                     InsertInList(m_selectedObject);
                 }
